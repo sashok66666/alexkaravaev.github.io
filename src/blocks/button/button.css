@@ -1,0 +1,9 @@
+.button {
+  border: 1px solid white;
+  display: block;
+  cursor: pointer;
+}
+
+.button:focus {
+  outline-color: greenyellow;
+}

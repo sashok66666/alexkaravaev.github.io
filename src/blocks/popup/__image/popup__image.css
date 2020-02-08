@@ -1,0 +1,8 @@
+@import url(../__bg/popup__bg.css);
+.popup__image {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    max-height: 80vh;
+    max-width: 80vw;
+}
