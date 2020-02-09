@@ -75,7 +75,7 @@ class Api {
 
 const renderCards = (cards) => placelist.render(cards);
 const api = new Api({
-  baseUrl: 'http://95.216.175.5/cohort6',
+  baseUrl: 'https://95.216.175.5/cohort6',
   headers: {
     authorization: 'ddc8dc74-2c41-47a9-8f3f-dae3c1869236',
     'Content-Type': 'application/json'
